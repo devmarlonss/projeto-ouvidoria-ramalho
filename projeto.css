@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    border: 0;
+    
+}
+
+
+#Logo{
+    display: flex;
+    gap: 10px;
+    width: 100px; /*lagura */ 
+    height: 50px; /*Altura */ 
+
+}
+
+.sublinhado{
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-underline-offset: 4px;
+}
+
+#Botoes_açao{
+    justify-content: center;
+    display: flex; /* coloca os itens em linha */
+    gap: 28px; /* espaço entre os itens */
+    background-color: rgb(255, 0, 183);
+    font-size: 16px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.btn {
+    display: inline-block;
+    text-decoration: none;    
+    color: white;
+    
+}
+
+#Barra_de_Pesquisa{
+    display: flex;
+    justify-items: right;
+    border-radius: 7px;
+    text-align: center;
+    background-color: rgb(229, 251, 251);font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+
+#img_ouvidoria{
+    width: 550px;
+}
+
+
+#rodape{
+    background-color:black;
+}
