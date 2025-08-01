@@ -8,7 +8,15 @@ main {
 }
 
 #rodape{
-    background-color: #d4d4d4;
-    text-align: center;
-    padding: 10px;
+    text-align: left;
+    padding: 20px;
+}
+
+#rodape p {
+    font-size: .9em;
+    margin: 3px;    
+}
+
+#rodape p:first-child {
+    font-size: 1.4em;
 }
