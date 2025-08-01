@@ -140,6 +140,7 @@ main {
   max-width: 1200px;
   margin: 0 auto;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  padding: 20px;
 }
 
 footer {
@@ -147,4 +148,5 @@ footer {
   max-width: 1200px;
   margin: 0 auto;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  padding: 20px;
 }
